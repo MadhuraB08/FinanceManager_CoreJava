@@ -4,15 +4,15 @@
 //import java.sql.DriverManager;
 //import java.sql.PreparedStatement;
 //import java.sql.ResultSet;
-//import java.sql.Statement;
+//import java.sql.Statement;          
 //import java.util.Scanner;
 //
 //public class IncomeExpenseTracker {
 //
 //    // Database connection details
 //    private static final String URL = "jdbc:postgresql://localhost:5432/expense_tracker";
-//    private static final String USER = "postgres"; // Replace with your PostgreSQL username
-//    private static final String PASSWORD = "Test@12345"; // Replace with your PostgreSQL password
+//    private static final String USER = "postgres";  
+//    private static final String PASSWORD = "Test@12345"; 
 //
 //    // Method to get a database connection
 //    private static Connection getConnection() throws Exception {
